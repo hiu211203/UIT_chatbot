@@ -48,7 +48,7 @@ To run this project, you'll need the following Python libraries:
 
 4. Set up your environment variables:
 
-   Create a `.env` file in the root directory and add the following:
+   Create a `.env` file in the project directory and add the following:
 
    ```env
    OPENAI_API_KEY=your_openai_api_key
