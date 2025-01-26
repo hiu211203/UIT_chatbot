@@ -31,13 +31,13 @@ To run this project, you'll need the following Python libraries:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/uit-admissions-chatbot.git
+   git clone https://github.com/hiu211203/UIT_chatbot.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd uit-admissions-chatbot
+   cd UIT_chatbot
    ```
 
 3. Install the required Python packages:
