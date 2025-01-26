@@ -79,12 +79,6 @@ To run this project, you'll need the following Python libraries:
 
 ---
 
-### Elasticsearch Index
-
-Ensure your Elasticsearch instance is running, and the required index (`my_index`) is populated with documents containing fields like `content` and optional `metadata`.
-
----
-
 ## Future Improvements
 
 - **Integrate More LLM Models**: Support for additional LLMs.
@@ -97,12 +91,6 @@ Ensure your Elasticsearch instance is running, and the required index (`my_index
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Make sure to follow the coding standards and include relevant tests.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
