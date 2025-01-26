@@ -60,6 +60,7 @@ To run this project, you'll need the following Python libraries:
 5. Start the Streamlit app:
 
    ```bash
+   cd project
    streamlit run app.py
    ```
 
