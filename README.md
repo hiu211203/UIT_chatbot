@@ -14,18 +14,6 @@ Welcome to the UIT Admissions Chatbot project! This chatbot is designed to provi
 
 ---
 
-## Requirements
-
-### Libraries and Tools
-
-To run this project, you'll need the following Python libraries:
-
-- `streamlit`
-- `transformers`
-- `llama-index`
-- `elasticsearch`
-- `openai`
-
 ## Setup Instructions
 
 1. Clone this repository:
@@ -85,21 +73,6 @@ To run this project, you'll need the following Python libraries:
 - **Enhanced UI/UX**: Improve user interface for better interactivity.
 - **Extended Dataset**: Add more UIT-related documents to enhance response accuracy.
 - **Performance Optimization**: Reduce latency for a smoother experience.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Make sure to follow the coding standards and include relevant tests.
-
----
-
-## Acknowledgements
-
-- [OpenAI](https://openai.com/) for providing the GPT-3.5 model.
-- [Streamlit](https://streamlit.io/) for the web app framework.
-- [HuggingFace](https://huggingface.co/) for the transformers and embedding models.
-- [Elasticsearch](https://www.elastic.co/) for document indexing and retrieval.
 
 ---
 
