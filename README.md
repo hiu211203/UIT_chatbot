@@ -3,7 +3,11 @@
 Welcome to the UIT Admissions Chatbot project! This chatbot is designed to provide accurate and contextually relevant answers to queries related to admissions at the University of Information Technology (UIT). It uses OpenAI's GPT-3.5 model, Elasticsearch, and various natural language processing techniques for enhanced performance.
 
 ---
+## Authors
 
+- [TTHNone](https://github.com/TTHNone)  
+- [hiu211203](https://github.com/hiu211203)
+  
 ## Features
 
 - **Multilingual Support**: Answers queries in Vietnamese or English based on the input language.
