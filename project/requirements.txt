@@ -1,0 +1,7 @@
+streamlit
+transformers
+llama-index
+elasticsearch
+python-dotenv
+openai
+llama-index-embeddings-huggingface
