@@ -26,6 +26,7 @@ Welcome to the UIT Admissions Chatbot project! This chatbot is designed to provi
 
    ```bash
    cd UIT_chatbot
+   cd project
    ```
 
 3. Install the required Python packages:
@@ -48,7 +49,6 @@ Welcome to the UIT Admissions Chatbot project! This chatbot is designed to provi
 5. Start the Streamlit app:
 
    ```bash
-   cd project
    streamlit run app.py
    ```
 
