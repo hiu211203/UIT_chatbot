@@ -71,15 +71,6 @@ Welcome to the UIT Admissions Chatbot project! This chatbot is designed to provi
 
 ---
 
-## Future Improvements
-
-- **Integrate More LLM Models**: Support for additional LLMs.
-- **Enhanced UI/UX**: Improve user interface for better interactivity.
-- **Extended Dataset**: Add more UIT-related documents to enhance response accuracy.
-- **Performance Optimization**: Reduce latency for a smoother experience.
-
----
-
 ## Contact
 
 For any questions or feedback, please reach out to [hieu211203@gmail.com](mailto:hieu211203@gmail.com).
